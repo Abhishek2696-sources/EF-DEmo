@@ -1,0 +1,8 @@
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.DTO\bin\Debug\netstandard2.1\MVCWebApplication.DTO.deps.json
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.DTO\bin\Debug\netstandard2.1\MVCWebApplication.DTO.dll
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.DTO\bin\Debug\netstandard2.1\MVCWebApplication.DTO.pdb
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.DTO\obj\Debug\netstandard2.1\MVCWebApplication.DTO.AssemblyInfoInputs.cache
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.DTO\obj\Debug\netstandard2.1\MVCWebApplication.DTO.AssemblyInfo.cs
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.DTO\obj\Debug\netstandard2.1\MVCWebApplication.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.DTO\obj\Debug\netstandard2.1\MVCWebApplication.DTO.dll
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.DTO\obj\Debug\netstandard2.1\MVCWebApplication.DTO.pdb

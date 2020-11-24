@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KtBPDb1Yh/yMCZCyKCToOJdp/d1nGlRnc0zlJT1HE90sA245NrwWsmlOu5NS8wl5LAc5ipuV89mR7a0flu7MQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abhishek\\source\\repos\\MVCWebApplication\\MVCWebApplication.DTO\\MVCWebApplication.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Abhishek\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Abhishek\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

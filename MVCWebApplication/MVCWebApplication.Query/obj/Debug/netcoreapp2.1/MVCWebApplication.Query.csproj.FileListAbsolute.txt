@@ -1,0 +1,8 @@
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.Query\bin\Debug\netcoreapp2.1\MVCWebApplication.Query.deps.json
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.Query\bin\Debug\netcoreapp2.1\MVCWebApplication.Query.dll
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.Query\obj\Debug\netcoreapp2.1\MVCWebApplication.Query.AssemblyInfoInputs.cache
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.Query\obj\Debug\netcoreapp2.1\MVCWebApplication.Query.AssemblyInfo.cs
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.Query\bin\Debug\netcoreapp2.1\MVCWebApplication.Query.pdb
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.Query\obj\Debug\netcoreapp2.1\MVCWebApplication.Query.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.Query\obj\Debug\netcoreapp2.1\MVCWebApplication.Query.dll
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.Query\obj\Debug\netcoreapp2.1\MVCWebApplication.Query.pdb

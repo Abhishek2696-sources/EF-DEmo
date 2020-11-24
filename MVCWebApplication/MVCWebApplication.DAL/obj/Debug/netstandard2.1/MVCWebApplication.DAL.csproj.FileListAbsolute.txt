@@ -1,0 +1,12 @@
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.DAL\bin\Debug\netstandard2.1\MVCWebApplication.DAL.deps.json
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.DAL\bin\Debug\netstandard2.1\MVCWebApplication.DAL.dll
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.DAL\bin\Debug\netstandard2.1\MVCWebApplication.DAL.pdb
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.DAL\bin\Debug\netstandard2.1\MVCWebApplication.DTO.dll
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.DAL\bin\Debug\netstandard2.1\MVCWebApplication.DTO.pdb
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.DAL\obj\Debug\netstandard2.1\MVCWebApplication.DAL.csprojAssemblyReference.cache
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.DAL\obj\Debug\netstandard2.1\MVCWebApplication.DAL.AssemblyInfoInputs.cache
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.DAL\obj\Debug\netstandard2.1\MVCWebApplication.DAL.AssemblyInfo.cs
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.DAL\obj\Debug\netstandard2.1\MVCWebApplication.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.DAL\obj\Debug\netstandard2.1\MVCWebApplication.DAL.csproj.CopyComplete
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.DAL\obj\Debug\netstandard2.1\MVCWebApplication.DAL.dll
+C:\Users\Abhishek\source\repos\MVCWebApplication\MVCWebApplication.DAL\obj\Debug\netstandard2.1\MVCWebApplication.DAL.pdb
